@@ -1,0 +1,34 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "youtubeVideoCodes": {
+      "type": "object",
+      "additionalProperties": false,
+      "patternProperties": {
+        "^[a-z_-]*$": {
+          "type": "object",
+          "properties": {
+            "insta-ctf": {
+              "type": "string"
+            },
+            "effic-ctf": {
+              "type": "string"
+            },
+            "weaponless": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "insta-ctf",
+            "effic-ctf",
+            "weaponless"
+          ]
+        }
+      }
+    }
+  },
+  "required": [
+    "youtubeVideoCodes"
+  ]
+}
