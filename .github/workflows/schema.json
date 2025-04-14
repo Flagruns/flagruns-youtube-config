@@ -6,7 +6,7 @@
       "type": "object",
       "additionalProperties": false,
       "patternProperties": {
-        "^[a-z_-]*$": {
+        "^[a-z0-9_-]*$": {
           "type": "object",
           "properties": {
             "insta-ctf": {
