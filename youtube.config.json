@@ -88,12 +88,17 @@
         "casa":{
             "insta-ctf":"SfMcrTk85MM",
             "effic-ctf":"Ccp-kDJMCPQ",
-            "weaponless":"wJx31_7vplQ"
+            "weaponless":"6v_1U-8FuyQ"
         },
         "catch22":{
             "insta-ctf":"Jh43RmH8YVo",
             "effic-ctf":"MHqCGkphA4I",
             "weaponless":"hMVzpnWqzAE"
+        },
+        "collide":{
+            "insta-ctf":"Hfg51teYLVs",
+            "effic-ctf":"3BVMvfSqiNk",
+            "weaponless":"XIoYx28tKew"
         }
     }
 }
